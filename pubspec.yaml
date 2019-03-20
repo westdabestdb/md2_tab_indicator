@@ -1,8 +1,8 @@
 name: md2_tab_indicator
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: MD2TabIndicator is a tab indicator influenced by Google's Material Design 2 tab indicator design and developed by
+version: 1.0.0
+author: westdabestdb <westdabestdb@gmail.com>
+homepage: https://github.com/westdabestdb/md2-tab-indicator
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
