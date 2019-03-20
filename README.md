@@ -2,6 +2,8 @@
 
 MD2TabIndicator is a tab indicator influenced by Google's Material Design 2 tab indicator design and developed by [westdabestdb](https://www.instagram.com/westdabestdb/).
 
+<img src="https://i.imgur.com/uKuSnZT.png" width="400px"/>
+
 ![](https://media.giphy.com/media/PPhIdGzHV12zYdmOUk/giphy.gif)
 ## Getting Started
 Add this to your package's `pubspec.yaml` file:
