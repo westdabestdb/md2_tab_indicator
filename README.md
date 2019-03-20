@@ -10,7 +10,7 @@ Add this to your package's `pubspec.yaml` file:
 ```
 ...
 dependencies:
-  md2_tab_indicator: ^1.0.0
+  md2_tab_indicator: ^1.0.1
 ```
 
 Now in your Dart code, you can use:
