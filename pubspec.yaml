@@ -1,11 +1,11 @@
 name: md2_tab_indicator
 description: MD2TabIndicator is a tab indicator influenced by Google's Material Design 2 tab indicator design and developed by
-version: 1.0.2
+version: 2.0.0
 author: westdabestdb <westdabestdb@gmail.com>
 homepage: https://github.com/westdabestdb/md2-tab-indicator
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:

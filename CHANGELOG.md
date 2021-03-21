@@ -1,3 +1,6 @@
+## [2.0.0]
+* Migrated to null safety
+
 ## [1.0.2]
 * Added 3 different mode options:
   * MD2IndicatorSize.tiny
